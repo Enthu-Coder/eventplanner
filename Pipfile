@@ -8,6 +8,7 @@ ipython = "*"
 fastapi = "*"
 uvicorn = "*"
 pydantic = {extras = ["email"], version = "*"}
+sqlmodel = "*"
 
 [dev-packages]
 
